@@ -1,0 +1,19 @@
+{
+  "name": "lab2_mocha_test",
+  "version": "1.0.0",
+  "description": "Calculator testing with mocha",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.8.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
+}
